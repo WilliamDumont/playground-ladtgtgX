@@ -1,4 +1,4 @@
-DAS PLAYGROUND IST IN DEUTSCH!
+Ce playground est en français!
 
 ```go runnable
 package main
